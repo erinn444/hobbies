@@ -1,0 +1,19 @@
+.jumbotron { 
+background-image: url("images/couch.png");
+background-repeat: no-repeat;
+background-size: cover;
+height: 550px;
+}
+
+.card-deck { 
+    border: 2px solid red;
+}
+
+.navbar { 
+    border: 2px solid red;
+}
+
+h1 { 
+    font-size: 40px;
+    margin: 20px;
+}
